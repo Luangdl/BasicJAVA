@@ -1,4 +1,4 @@
-package pacote1;
+package cursojava.classes;
 
 public class ClasseGit {
 
